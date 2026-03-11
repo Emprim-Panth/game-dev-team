@@ -924,7 +924,7 @@ Run 30+:    Endgame. Challenge modes, rare unlocks, narrative payoffs.
 
 ### Monetization for Forge&Code (Buy Once, Own Forever)
 
-Per Forge&Code's values (aligned with HeiloProjects):
+Per Forge&Code's values (aligned with Forge&Code):
 
 - **Premium price: $4.99-$9.99.** One purchase. Full game. No paywalls.
 - **Optional cosmetic DLC** if post-launch content is planned. Never gameplay-affecting.
